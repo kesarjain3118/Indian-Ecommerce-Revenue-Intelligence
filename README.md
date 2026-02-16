@@ -6,7 +6,7 @@
 
 > Comprehensive data analytics project analyzing 2 years of e-commerce transactional data with advanced customer segmentation, predictive modeling, and interactive dashboards
 
-## 📊 Project Overview:https://ecomernce.netlify.app/
+## 📊 Project Overview:[https://ecomernce.netlify.app/](https://indian-ecommerce-revenue-intelligence.netlify.app/)
 This project delivers end-to-end analytics for an Indian e-commerce platform, analyzing **47,737 records** across 5 data sources (Jan 2023 - Dec 2024). The analysis reveals **505% year-over-year revenue growth** and provides actionable insights projected to drive **₹45-60M in annual revenue impact**.
 
 ### Key Highlights
