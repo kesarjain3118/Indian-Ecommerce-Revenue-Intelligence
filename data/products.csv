@@ -1,0 +1,496 @@
+product_id,category,sub_category,price,cost
+PROD00001,Electronics,Smartphones,61989,54550.32
+PROD00002,Electronics,Smartphones,29111,25617.68
+PROD00003,Electronics,Smartphones,46414,40844.32
+PROD00004,Electronics,Smartphones,13204,11619.52
+PROD00005,Electronics,Smartphones,46085,40554.8
+PROD00006,Electronics,Smartphones,28794,25338.72
+PROD00007,Electronics,Smartphones,21020,18497.6
+PROD00008,Electronics,Smartphones,63349,55747.12
+PROD00009,Electronics,Smartphones,45072,39663.36
+PROD00010,Electronics,Smartphones,58555,51528.4
+PROD00011,Electronics,Smartphones,47823,42084.24
+PROD00012,Electronics,Smartphones,32879,28933.52
+PROD00013,Electronics,Smartphones,47917,42166.96
+PROD00014,Electronics,Smartphones,34678,30516.64
+PROD00015,Electronics,Smartphones,68259,60067.92
+PROD00016,Electronics,Smartphones,72090,63439.2
+PROD00017,Electronics,Smartphones,11553,10166.64
+PROD00018,Electronics,Smartphones,18307,16110.16
+PROD00019,Electronics,Smartphones,72093,63441.84
+PROD00020,Electronics,Smartphones,78993,69513.84
+PROD00021,Electronics,Smartphones,19074,16785.12
+PROD00022,Electronics,Smartphones,51693,45489.84
+PROD00023,Electronics,Smartphones,60686,53403.68
+PROD00024,Electronics,Smartphones,67700,59576.0
+PROD00025,Electronics,Smartphones,29640,26083.2
+PROD00026,Electronics,Smartphones,43343,38141.84
+PROD00027,Electronics,Smartphones,41597,36605.36
+PROD00028,Electronics,Smartphones,55006,48405.28
+PROD00029,Electronics,Smartphones,70085,61674.8
+PROD00030,Electronics,Smartphones,16484,14505.92
+PROD00031,Electronics,Smartphones,67808,59671.04
+PROD00032,Electronics,Smartphones,63024,55461.12
+PROD00033,Electronics,Smartphones,54663,48103.44
+PROD00034,Electronics,Laptops,26310,23152.8
+PROD00035,Electronics,Laptops,57099,50247.12
+PROD00036,Electronics,Laptops,13559,11931.92
+PROD00037,Electronics,Laptops,45683,40201.04
+PROD00038,Electronics,Laptops,34423,30292.24
+PROD00039,Electronics,Laptops,32512,28610.56
+PROD00040,Electronics,Laptops,56911,50081.68
+PROD00041,Electronics,Laptops,22898,20150.24
+PROD00042,Electronics,Laptops,38679,34037.52
+PROD00043,Electronics,Laptops,54292,47776.96
+PROD00044,Electronics,Laptops,61362,53998.56
+PROD00045,Electronics,Laptops,39339,34618.32
+PROD00046,Electronics,Laptops,49755,43784.4
+PROD00047,Electronics,Laptops,11902,10473.76
+PROD00048,Electronics,Laptops,8800,7744.0
+PROD00049,Electronics,Laptops,9840,8659.2
+PROD00050,Electronics,Laptops,19701,17336.88
+PROD00051,Electronics,Laptops,11320,9961.6
+PROD00052,Electronics,Laptops,74765,65793.2
+PROD00053,Electronics,Laptops,77627,68311.76
+PROD00054,Electronics,Laptops,49601,43648.88
+PROD00055,Electronics,Laptops,67874,59729.12
+PROD00056,Electronics,Laptops,34868,30683.84
+PROD00057,Electronics,Laptops,7223,6356.24
+PROD00058,Electronics,Laptops,74637,65680.56
+PROD00059,Electronics,Laptops,35664,31384.32
+PROD00060,Electronics,Laptops,49614,43660.32
+PROD00061,Electronics,Laptops,26459,23283.92
+PROD00062,Electronics,Laptops,17478,15380.64
+PROD00063,Electronics,Laptops,16139,14202.32
+PROD00064,Electronics,Laptops,75818,66719.84
+PROD00065,Electronics,Laptops,58686,51643.68
+PROD00066,Electronics,Laptops,73428,64616.64
+PROD00067,Electronics,Headphones,43077,37907.76
+PROD00068,Electronics,Headphones,42681,37559.28
+PROD00069,Electronics,Headphones,27308,24031.04
+PROD00070,Electronics,Headphones,43641,38404.08
+PROD00071,Electronics,Headphones,56100,49368.0
+PROD00072,Electronics,Headphones,41298,36342.24
+PROD00073,Electronics,Headphones,72449,63755.12
+PROD00074,Electronics,Headphones,72725,63998.0
+PROD00075,Electronics,Headphones,43999,38719.12
+PROD00076,Electronics,Headphones,65007,57206.16
+PROD00077,Electronics,Headphones,53589,47158.32
+PROD00078,Electronics,Headphones,62414,54924.32
+PROD00079,Electronics,Headphones,27373,24088.24
+PROD00080,Electronics,Headphones,78536,69111.68
+PROD00081,Electronics,Headphones,53619,47184.72
+PROD00082,Electronics,Headphones,69261,60949.68
+PROD00083,Electronics,Headphones,48069,42300.72
+PROD00084,Electronics,Headphones,79844,70262.72
+PROD00085,Electronics,Headphones,50682,44600.16
+PROD00086,Electronics,Headphones,73144,64366.72
+PROD00087,Electronics,Headphones,21569,18980.72
+PROD00088,Electronics,Headphones,72936,64183.68
+PROD00089,Electronics,Headphones,19570,17221.6
+PROD00090,Electronics,Headphones,11729,10321.52
+PROD00091,Electronics,Headphones,28481,25063.28
+PROD00092,Electronics,Headphones,23803,20946.64
+PROD00093,Electronics,Headphones,14366,12642.08
+PROD00094,Electronics,Headphones,62816,55278.08
+PROD00095,Electronics,Headphones,65654,57775.52
+PROD00096,Electronics,Headphones,75623,66548.24
+PROD00097,Electronics,Headphones,14696,12932.48
+PROD00098,Electronics,Headphones,23043,20277.84
+PROD00099,Electronics,Headphones,44221,38914.48
+PROD00100,Electronics,Smartwatches,74313,65395.44
+PROD00101,Electronics,Smartwatches,75837,66736.56
+PROD00102,Electronics,Smartwatches,29580,26030.4
+PROD00103,Electronics,Smartwatches,64225,56518.0
+PROD00104,Electronics,Smartwatches,15741,13852.08
+PROD00105,Electronics,Smartwatches,65571,57702.48
+PROD00106,Electronics,Smartwatches,6885,6058.8
+PROD00107,Electronics,Smartwatches,48013,42251.44
+PROD00108,Electronics,Smartwatches,74352,65429.76
+PROD00109,Electronics,Smartwatches,44223,38916.24
+PROD00110,Electronics,Smartwatches,39431,34699.28
+PROD00111,Electronics,Smartwatches,48087,42316.56
+PROD00112,Electronics,Smartwatches,17960,15804.8
+PROD00113,Electronics,Smartwatches,39848,35066.24
+PROD00114,Electronics,Smartwatches,32015,28173.2
+PROD00115,Electronics,Smartwatches,60765,53473.2
+PROD00116,Electronics,Smartwatches,70056,61649.28
+PROD00117,Electronics,Smartwatches,25955,22840.4
+PROD00118,Electronics,Smartwatches,73560,64732.8
+PROD00119,Electronics,Smartwatches,56277,49523.76
+PROD00120,Electronics,Smartwatches,73599,64767.12
+PROD00121,Electronics,Smartwatches,18737,16488.56
+PROD00122,Electronics,Smartwatches,15878,13972.64
+PROD00123,Electronics,Smartwatches,28884,25417.92
+PROD00124,Electronics,Smartwatches,33526,29502.88
+PROD00125,Electronics,Smartwatches,8890,7823.2
+PROD00126,Electronics,Smartwatches,32514,28612.32
+PROD00127,Electronics,Smartwatches,74227,65319.76
+PROD00128,Electronics,Smartwatches,70900,62392.0
+PROD00129,Electronics,Smartwatches,49789,43814.32
+PROD00130,Electronics,Smartwatches,61939,54506.32
+PROD00131,Electronics,Smartwatches,75303,66266.64
+PROD00132,Electronics,Smartwatches,19952,17557.76
+PROD00133,Electronics,Cameras,15736,13847.68
+PROD00134,Electronics,Cameras,37212,32746.56
+PROD00135,Electronics,Cameras,69446,61112.48
+PROD00136,Electronics,Cameras,75617,66542.96
+PROD00137,Electronics,Cameras,15457,13602.16
+PROD00138,Electronics,Cameras,41058,36131.04
+PROD00139,Electronics,Cameras,49113,43219.44
+PROD00140,Electronics,Cameras,6488,5709.44
+PROD00141,Electronics,Cameras,7970,7013.6
+PROD00142,Electronics,Cameras,26879,23653.52
+PROD00143,Electronics,Cameras,18810,16552.8
+PROD00144,Electronics,Cameras,63365,55761.2
+PROD00145,Electronics,Cameras,66343,58381.84
+PROD00146,Electronics,Cameras,11159,9819.92
+PROD00147,Electronics,Cameras,53549,47123.12
+PROD00148,Electronics,Cameras,46369,40804.72
+PROD00149,Electronics,Cameras,24373,21448.24
+PROD00150,Electronics,Cameras,78436,69023.68
+PROD00151,Electronics,Cameras,60735,53446.8
+PROD00152,Electronics,Cameras,60438,53185.44
+PROD00153,Electronics,Cameras,32227,28359.76
+PROD00154,Electronics,Cameras,33968,29891.84
+PROD00155,Electronics,Cameras,53977,47499.76
+PROD00156,Electronics,Cameras,16721,14714.48
+PROD00157,Electronics,Cameras,46036,40511.68
+PROD00158,Electronics,Cameras,71137,62600.56
+PROD00159,Electronics,Cameras,75577,66507.76
+PROD00160,Electronics,Cameras,7708,6783.04
+PROD00161,Electronics,Cameras,65906,57997.28
+PROD00162,Electronics,Cameras,6558,5771.04
+PROD00163,Electronics,Cameras,46735,41126.8
+PROD00164,Electronics,Cameras,30579,26909.52
+PROD00165,Electronics,Cameras,21585,18994.8
+PROD00166,Fashion,Mens Wear,3732,2425.8
+PROD00167,Fashion,Mens Wear,663,430.95
+PROD00168,Fashion,Mens Wear,1495,971.75
+PROD00169,Fashion,Mens Wear,1498,973.7
+PROD00170,Fashion,Mens Wear,2475,1608.75
+PROD00171,Fashion,Mens Wear,1153,749.45
+PROD00172,Fashion,Mens Wear,585,380.25
+PROD00173,Fashion,Mens Wear,2536,1648.4
+PROD00174,Fashion,Mens Wear,4863,3160.95
+PROD00175,Fashion,Mens Wear,1529,993.85
+PROD00176,Fashion,Mens Wear,4385,2850.25
+PROD00177,Fashion,Mens Wear,3018,1961.7
+PROD00178,Fashion,Mens Wear,1601,1040.65
+PROD00179,Fashion,Mens Wear,3081,2002.65
+PROD00180,Fashion,Mens Wear,3363,2185.95
+PROD00181,Fashion,Mens Wear,1493,970.45
+PROD00182,Fashion,Mens Wear,2493,1620.45
+PROD00183,Fashion,Mens Wear,3994,2596.1
+PROD00184,Fashion,Mens Wear,846,549.9
+PROD00185,Fashion,Mens Wear,983,638.95
+PROD00186,Fashion,Mens Wear,4850,3152.5
+PROD00187,Fashion,Mens Wear,3187,2071.55
+PROD00188,Fashion,Mens Wear,4882,3173.3
+PROD00189,Fashion,Mens Wear,1327,862.55
+PROD00190,Fashion,Mens Wear,4614,2999.1
+PROD00191,Fashion,Mens Wear,1507,979.55
+PROD00192,Fashion,Mens Wear,849,551.85
+PROD00193,Fashion,Mens Wear,2821,1833.65
+PROD00194,Fashion,Mens Wear,3184,2069.6
+PROD00195,Fashion,Mens Wear,999,649.35
+PROD00196,Fashion,Mens Wear,1611,1047.15
+PROD00197,Fashion,Mens Wear,2952,1918.8
+PROD00198,Fashion,Mens Wear,2238,1454.7
+PROD00199,Fashion,Womens Wear,4276,2779.4
+PROD00200,Fashion,Womens Wear,2192,1424.8
+PROD00201,Fashion,Womens Wear,3780,2457.0
+PROD00202,Fashion,Womens Wear,1070,695.5
+PROD00203,Fashion,Womens Wear,3311,2152.15
+PROD00204,Fashion,Womens Wear,4849,3151.85
+PROD00205,Fashion,Womens Wear,4564,2966.6
+PROD00206,Fashion,Womens Wear,2184,1419.6
+PROD00207,Fashion,Womens Wear,3605,2343.25
+PROD00208,Fashion,Womens Wear,3793,2465.45
+PROD00209,Fashion,Womens Wear,1645,1069.25
+PROD00210,Fashion,Womens Wear,4103,2666.95
+PROD00211,Fashion,Womens Wear,1146,744.9
+PROD00212,Fashion,Womens Wear,2277,1480.05
+PROD00213,Fashion,Womens Wear,3356,2181.4
+PROD00214,Fashion,Womens Wear,4675,3038.75
+PROD00215,Fashion,Womens Wear,3784,2459.6
+PROD00216,Fashion,Womens Wear,2509,1630.85
+PROD00217,Fashion,Womens Wear,2212,1437.8
+PROD00218,Fashion,Womens Wear,3393,2205.45
+PROD00219,Fashion,Womens Wear,2482,1613.3
+PROD00220,Fashion,Womens Wear,994,646.1
+PROD00221,Fashion,Womens Wear,558,362.7
+PROD00222,Fashion,Womens Wear,3235,2102.75
+PROD00223,Fashion,Womens Wear,4960,3224.0
+PROD00224,Fashion,Womens Wear,3135,2037.75
+PROD00225,Fashion,Womens Wear,4024,2615.6
+PROD00226,Fashion,Womens Wear,1240,806.0
+PROD00227,Fashion,Womens Wear,3504,2277.6
+PROD00228,Fashion,Womens Wear,2891,1879.15
+PROD00229,Fashion,Womens Wear,4189,2722.85
+PROD00230,Fashion,Womens Wear,2517,1636.05
+PROD00231,Fashion,Womens Wear,1204,782.6
+PROD00232,Fashion,Kids Wear,3238,2104.7
+PROD00233,Fashion,Kids Wear,3660,2379.0
+PROD00234,Fashion,Kids Wear,3576,2324.4
+PROD00235,Fashion,Kids Wear,2461,1599.65
+PROD00236,Fashion,Kids Wear,4492,2919.8
+PROD00237,Fashion,Kids Wear,2023,1314.95
+PROD00238,Fashion,Kids Wear,3425,2226.25
+PROD00239,Fashion,Kids Wear,3340,2171.0
+PROD00240,Fashion,Kids Wear,1447,940.55
+PROD00241,Fashion,Kids Wear,1329,863.85
+PROD00242,Fashion,Kids Wear,3611,2347.15
+PROD00243,Fashion,Kids Wear,2877,1870.05
+PROD00244,Fashion,Kids Wear,2516,1635.4
+PROD00245,Fashion,Kids Wear,3718,2416.7
+PROD00246,Fashion,Kids Wear,848,551.2
+PROD00247,Fashion,Kids Wear,1597,1038.05
+PROD00248,Fashion,Kids Wear,4662,3030.3
+PROD00249,Fashion,Kids Wear,2465,1602.25
+PROD00250,Fashion,Kids Wear,4362,2835.3
+PROD00251,Fashion,Kids Wear,4482,2913.3
+PROD00252,Fashion,Kids Wear,1988,1292.2
+PROD00253,Fashion,Kids Wear,4243,2757.95
+PROD00254,Fashion,Kids Wear,730,474.5
+PROD00255,Fashion,Kids Wear,1797,1168.05
+PROD00256,Fashion,Kids Wear,4962,3225.3
+PROD00257,Fashion,Kids Wear,3955,2570.75
+PROD00258,Fashion,Kids Wear,3598,2338.7
+PROD00259,Fashion,Kids Wear,3857,2507.05
+PROD00260,Fashion,Kids Wear,538,349.7
+PROD00261,Fashion,Kids Wear,3310,2151.5
+PROD00262,Fashion,Kids Wear,2542,1652.3
+PROD00263,Fashion,Kids Wear,2916,1895.4
+PROD00264,Fashion,Kids Wear,1950,1267.5
+PROD00265,Fashion,Footwear,4769,3099.85
+PROD00266,Fashion,Footwear,1173,762.45
+PROD00267,Fashion,Footwear,3594,2336.1
+PROD00268,Fashion,Footwear,2588,1682.2
+PROD00269,Fashion,Footwear,2600,1690.0
+PROD00270,Fashion,Footwear,1062,690.3
+PROD00271,Fashion,Footwear,3876,2519.4
+PROD00272,Fashion,Footwear,1127,732.55
+PROD00273,Fashion,Footwear,786,510.9
+PROD00274,Fashion,Footwear,1358,882.7
+PROD00275,Fashion,Footwear,4283,2783.95
+PROD00276,Fashion,Footwear,3148,2046.2
+PROD00277,Fashion,Footwear,2177,1415.05
+PROD00278,Fashion,Footwear,3242,2107.3
+PROD00279,Fashion,Footwear,4886,3175.9
+PROD00280,Fashion,Footwear,2954,1920.1
+PROD00281,Fashion,Footwear,3855,2505.75
+PROD00282,Fashion,Footwear,2675,1738.75
+PROD00283,Fashion,Footwear,851,553.15
+PROD00284,Fashion,Footwear,3558,2312.7
+PROD00285,Fashion,Footwear,1519,987.35
+PROD00286,Fashion,Footwear,806,523.9
+PROD00287,Fashion,Footwear,2047,1330.55
+PROD00288,Fashion,Footwear,4979,3236.35
+PROD00289,Fashion,Footwear,510,331.5
+PROD00290,Fashion,Footwear,1608,1045.2
+PROD00291,Fashion,Footwear,4517,2936.05
+PROD00292,Fashion,Footwear,2253,1464.45
+PROD00293,Fashion,Footwear,567,368.55
+PROD00294,Fashion,Footwear,2663,1730.95
+PROD00295,Fashion,Footwear,1669,1084.85
+PROD00296,Fashion,Footwear,4486,2915.9
+PROD00297,Fashion,Footwear,3938,2559.7
+PROD00298,Fashion,Accessories,2208,1435.2
+PROD00299,Fashion,Accessories,3958,2572.7
+PROD00300,Fashion,Accessories,1600,1040.0
+PROD00301,Fashion,Accessories,4670,3035.5
+PROD00302,Fashion,Accessories,1339,870.35
+PROD00303,Fashion,Accessories,2656,1726.4
+PROD00304,Fashion,Accessories,2623,1704.95
+PROD00305,Fashion,Accessories,2716,1765.4
+PROD00306,Fashion,Accessories,4213,2738.45
+PROD00307,Fashion,Accessories,1450,942.5
+PROD00308,Fashion,Accessories,4832,3140.8
+PROD00309,Fashion,Accessories,2383,1548.95
+PROD00310,Fashion,Accessories,3096,2012.4
+PROD00311,Fashion,Accessories,2231,1450.15
+PROD00312,Fashion,Accessories,677,440.05
+PROD00313,Fashion,Accessories,3873,2517.45
+PROD00314,Fashion,Accessories,867,563.55
+PROD00315,Fashion,Accessories,3927,2552.55
+PROD00316,Fashion,Accessories,4557,2962.05
+PROD00317,Fashion,Accessories,3794,2466.1
+PROD00318,Fashion,Accessories,2630,1709.5
+PROD00319,Fashion,Accessories,529,343.85
+PROD00320,Fashion,Accessories,1922,1249.3
+PROD00321,Fashion,Accessories,1918,1246.7
+PROD00322,Fashion,Accessories,4642,3017.3
+PROD00323,Fashion,Accessories,4895,3181.75
+PROD00324,Fashion,Accessories,2779,1806.35
+PROD00325,Fashion,Accessories,4670,3035.5
+PROD00326,Fashion,Accessories,4221,2743.65
+PROD00327,Fashion,Accessories,2708,1760.2
+PROD00328,Fashion,Accessories,3120,2028.0
+PROD00329,Fashion,Accessories,3372,2191.8
+PROD00330,Fashion,Accessories,1416,920.4
+PROD00331,Home & Kitchen,Furniture,24164,18123.0
+PROD00332,Home & Kitchen,Furniture,8770,6577.5
+PROD00333,Home & Kitchen,Furniture,11769,8826.75
+PROD00334,Home & Kitchen,Furniture,18617,13962.75
+PROD00335,Home & Kitchen,Furniture,15866,11899.5
+PROD00336,Home & Kitchen,Furniture,5449,4086.75
+PROD00337,Home & Kitchen,Furniture,17087,12815.25
+PROD00338,Home & Kitchen,Furniture,5039,3779.25
+PROD00339,Home & Kitchen,Furniture,15860,11895.0
+PROD00340,Home & Kitchen,Furniture,9712,7284.0
+PROD00341,Home & Kitchen,Furniture,7440,5580.0
+PROD00342,Home & Kitchen,Furniture,1697,1272.75
+PROD00343,Home & Kitchen,Furniture,22030,16522.5
+PROD00344,Home & Kitchen,Furniture,14920,11190.0
+PROD00345,Home & Kitchen,Furniture,19114,14335.5
+PROD00346,Home & Kitchen,Furniture,19348,14511.0
+PROD00347,Home & Kitchen,Furniture,4926,3694.5
+PROD00348,Home & Kitchen,Furniture,4462,3346.5
+PROD00349,Home & Kitchen,Furniture,13574,10180.5
+PROD00350,Home & Kitchen,Furniture,9879,7409.25
+PROD00351,Home & Kitchen,Furniture,24620,18465.0
+PROD00352,Home & Kitchen,Furniture,2150,1612.5
+PROD00353,Home & Kitchen,Furniture,7655,5741.25
+PROD00354,Home & Kitchen,Furniture,10996,8247.0
+PROD00355,Home & Kitchen,Furniture,7824,5868.0
+PROD00356,Home & Kitchen,Furniture,20354,15265.5
+PROD00357,Home & Kitchen,Furniture,17511,13133.25
+PROD00358,Home & Kitchen,Furniture,18128,13596.0
+PROD00359,Home & Kitchen,Furniture,3130,2347.5
+PROD00360,Home & Kitchen,Furniture,17621,13215.75
+PROD00361,Home & Kitchen,Furniture,17168,12876.0
+PROD00362,Home & Kitchen,Furniture,7735,5801.25
+PROD00363,Home & Kitchen,Furniture,18969,14226.75
+PROD00364,Home & Kitchen,Kitchen Appliances,16397,12297.75
+PROD00365,Home & Kitchen,Kitchen Appliances,15522,11641.5
+PROD00366,Home & Kitchen,Kitchen Appliances,22361,16770.75
+PROD00367,Home & Kitchen,Kitchen Appliances,12768,9576.0
+PROD00368,Home & Kitchen,Kitchen Appliances,17776,13332.0
+PROD00369,Home & Kitchen,Kitchen Appliances,8289,6216.75
+PROD00370,Home & Kitchen,Kitchen Appliances,24995,18746.25
+PROD00371,Home & Kitchen,Kitchen Appliances,8668,6501.0
+PROD00372,Home & Kitchen,Kitchen Appliances,8027,6020.25
+PROD00373,Home & Kitchen,Kitchen Appliances,14261,10695.75
+PROD00374,Home & Kitchen,Kitchen Appliances,10304,7728.0
+PROD00375,Home & Kitchen,Kitchen Appliances,16561,12420.75
+PROD00376,Home & Kitchen,Kitchen Appliances,15729,11796.75
+PROD00377,Home & Kitchen,Kitchen Appliances,1456,1092.0
+PROD00378,Home & Kitchen,Kitchen Appliances,9227,6920.25
+PROD00379,Home & Kitchen,Kitchen Appliances,4089,3066.75
+PROD00380,Home & Kitchen,Kitchen Appliances,8620,6465.0
+PROD00381,Home & Kitchen,Kitchen Appliances,24509,18381.75
+PROD00382,Home & Kitchen,Kitchen Appliances,1276,957.0
+PROD00383,Home & Kitchen,Kitchen Appliances,20826,15619.5
+PROD00384,Home & Kitchen,Kitchen Appliances,1408,1056.0
+PROD00385,Home & Kitchen,Kitchen Appliances,21404,16053.0
+PROD00386,Home & Kitchen,Kitchen Appliances,4693,3519.75
+PROD00387,Home & Kitchen,Kitchen Appliances,12439,9329.25
+PROD00388,Home & Kitchen,Kitchen Appliances,7324,5493.0
+PROD00389,Home & Kitchen,Kitchen Appliances,17798,13348.5
+PROD00390,Home & Kitchen,Kitchen Appliances,21870,16402.5
+PROD00391,Home & Kitchen,Kitchen Appliances,14734,11050.5
+PROD00392,Home & Kitchen,Kitchen Appliances,1759,1319.25
+PROD00393,Home & Kitchen,Kitchen Appliances,7104,5328.0
+PROD00394,Home & Kitchen,Kitchen Appliances,18856,14142.0
+PROD00395,Home & Kitchen,Kitchen Appliances,5185,3888.75
+PROD00396,Home & Kitchen,Kitchen Appliances,13972,10479.0
+PROD00397,Home & Kitchen,Home Decor,5366,4024.5
+PROD00398,Home & Kitchen,Home Decor,12425,9318.75
+PROD00399,Home & Kitchen,Home Decor,9667,7250.25
+PROD00400,Home & Kitchen,Home Decor,6467,4850.25
+PROD00401,Home & Kitchen,Home Decor,2294,1720.5
+PROD00402,Home & Kitchen,Home Decor,9584,7188.0
+PROD00403,Home & Kitchen,Home Decor,3222,2416.5
+PROD00404,Home & Kitchen,Home Decor,22469,16851.75
+PROD00405,Home & Kitchen,Home Decor,6583,4937.25
+PROD00406,Home & Kitchen,Home Decor,8623,6467.25
+PROD00407,Home & Kitchen,Home Decor,3785,2838.75
+PROD00408,Home & Kitchen,Home Decor,21028,15771.0
+PROD00409,Home & Kitchen,Home Decor,2141,1605.75
+PROD00410,Home & Kitchen,Home Decor,24729,18546.75
+PROD00411,Home & Kitchen,Home Decor,22376,16782.0
+PROD00412,Home & Kitchen,Home Decor,12668,9501.0
+PROD00413,Home & Kitchen,Home Decor,15752,11814.0
+PROD00414,Home & Kitchen,Home Decor,16133,12099.75
+PROD00415,Home & Kitchen,Home Decor,5389,4041.75
+PROD00416,Home & Kitchen,Home Decor,1239,929.25
+PROD00417,Home & Kitchen,Home Decor,9799,7349.25
+PROD00418,Home & Kitchen,Home Decor,10158,7618.5
+PROD00419,Home & Kitchen,Home Decor,3172,2379.0
+PROD00420,Home & Kitchen,Home Decor,1644,1233.0
+PROD00421,Home & Kitchen,Home Decor,2854,2140.5
+PROD00422,Home & Kitchen,Home Decor,24176,18132.0
+PROD00423,Home & Kitchen,Home Decor,23614,17710.5
+PROD00424,Home & Kitchen,Home Decor,17211,12908.25
+PROD00425,Home & Kitchen,Home Decor,23592,17694.0
+PROD00426,Home & Kitchen,Home Decor,20384,15288.0
+PROD00427,Home & Kitchen,Home Decor,24073,18054.75
+PROD00428,Home & Kitchen,Home Decor,9916,7437.0
+PROD00429,Home & Kitchen,Home Decor,4267,3200.25
+PROD00430,Home & Kitchen,Bedding,19514,14635.5
+PROD00431,Home & Kitchen,Bedding,8048,6036.0
+PROD00432,Home & Kitchen,Bedding,6228,4671.0
+PROD00433,Home & Kitchen,Bedding,9871,7403.25
+PROD00434,Home & Kitchen,Bedding,13164,9873.0
+PROD00435,Home & Kitchen,Bedding,8870,6652.5
+PROD00436,Home & Kitchen,Bedding,19049,14286.75
+PROD00437,Home & Kitchen,Bedding,22077,16557.75
+PROD00438,Home & Kitchen,Bedding,3466,2599.5
+PROD00439,Home & Kitchen,Bedding,2949,2211.75
+PROD00440,Home & Kitchen,Bedding,21361,16020.75
+PROD00441,Home & Kitchen,Bedding,16817,12612.75
+PROD00442,Home & Kitchen,Bedding,24415,18311.25
+PROD00443,Home & Kitchen,Bedding,21189,15891.75
+PROD00444,Home & Kitchen,Bedding,11143,8357.25
+PROD00445,Home & Kitchen,Bedding,4237,3177.75
+PROD00446,Home & Kitchen,Bedding,21784,16338.0
+PROD00447,Home & Kitchen,Bedding,5733,4299.75
+PROD00448,Home & Kitchen,Bedding,5725,4293.75
+PROD00449,Home & Kitchen,Bedding,10078,7558.5
+PROD00450,Home & Kitchen,Bedding,18825,14118.75
+PROD00451,Home & Kitchen,Bedding,16257,12192.75
+PROD00452,Home & Kitchen,Bedding,1922,1441.5
+PROD00453,Home & Kitchen,Bedding,20247,15185.25
+PROD00454,Home & Kitchen,Bedding,24926,18694.5
+PROD00455,Home & Kitchen,Bedding,19285,14463.75
+PROD00456,Home & Kitchen,Bedding,16553,12414.75
+PROD00457,Home & Kitchen,Bedding,5948,4461.0
+PROD00458,Home & Kitchen,Bedding,13772,10329.0
+PROD00459,Home & Kitchen,Bedding,9380,7035.0
+PROD00460,Home & Kitchen,Bedding,19819,14864.25
+PROD00461,Home & Kitchen,Bedding,14332,10749.0
+PROD00462,Home & Kitchen,Bedding,7707,5780.25
+PROD00463,Home & Kitchen,Storage,7007,5255.25
+PROD00464,Home & Kitchen,Storage,6814,5110.5
+PROD00465,Home & Kitchen,Storage,13228,9921.0
+PROD00466,Home & Kitchen,Storage,3560,2670.0
+PROD00467,Home & Kitchen,Storage,17253,12939.75
+PROD00468,Home & Kitchen,Storage,10782,8086.5
+PROD00469,Home & Kitchen,Storage,5723,4292.25
+PROD00470,Home & Kitchen,Storage,7079,5309.25
+PROD00471,Home & Kitchen,Storage,10490,7867.5
+PROD00472,Home & Kitchen,Storage,1458,1093.5
+PROD00473,Home & Kitchen,Storage,9684,7263.0
+PROD00474,Home & Kitchen,Storage,23737,17802.75
+PROD00475,Home & Kitchen,Storage,22157,16617.75
+PROD00476,Home & Kitchen,Storage,23067,17300.25
+PROD00477,Home & Kitchen,Storage,8011,6008.25
+PROD00478,Home & Kitchen,Storage,6648,4986.0
+PROD00479,Home & Kitchen,Storage,14736,11052.0
+PROD00480,Home & Kitchen,Storage,4266,3199.5
+PROD00481,Home & Kitchen,Storage,4535,3401.25
+PROD00482,Home & Kitchen,Storage,18484,13863.0
+PROD00483,Home & Kitchen,Storage,21377,16032.75
+PROD00484,Home & Kitchen,Storage,2691,2018.25
+PROD00485,Home & Kitchen,Storage,2161,1620.75
+PROD00486,Home & Kitchen,Storage,7305,5478.75
+PROD00487,Home & Kitchen,Storage,11009,8256.75
+PROD00488,Home & Kitchen,Storage,13536,10152.0
+PROD00489,Home & Kitchen,Storage,18230,13672.5
+PROD00490,Home & Kitchen,Storage,15143,11357.25
+PROD00491,Home & Kitchen,Storage,4251,3188.25
+PROD00492,Home & Kitchen,Storage,23529,17646.75
+PROD00493,Home & Kitchen,Storage,13500,10125.0
+PROD00494,Home & Kitchen,Storage,8048,6036.0
+PROD00495,Home & Kitchen,Storage,2646,1984.5
