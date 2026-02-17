@@ -12,7 +12,6 @@ This project delivers end-to-end analytics for an Indian e-commerce platform, an
 ### Key Highlights
 
 - 📈 **₹220.4M** total revenue analyzed
-- 🎯 **505%** YoY growth identified
 - 🤖 **100%** ML model accuracy for churn prediction
 - 💰 **₹78.3M** revenue at risk identified
 - 👥 **5,000** customers segmented using RFM analysis
