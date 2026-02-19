@@ -3,6 +3,9 @@
 [![Python](https://img.shields.io/badge/Python-3.12-blue.svg)](https://www.python.org/)
 [![Tableau](https://img.shields.io/badge/Tableau-2024-orange.svg)](https://www.tableau.com/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+Tableau dashboard 
+
+https://public.tableau.com/views/Book1_17710687824670/SalesOverviewDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 > Comprehensive data analytics project analyzing 2 years of e-commerce transactional data with advanced customer segmentation, predictive modeling, and interactive dashboards
 
